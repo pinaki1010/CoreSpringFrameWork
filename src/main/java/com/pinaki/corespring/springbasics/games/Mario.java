@@ -1,5 +1,8 @@
 package com.pinaki.corespring.springbasics.games;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Mario implements GamingConsole{
 	
 	public void up() {
