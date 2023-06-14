@@ -4,7 +4,7 @@ import com.pinaki.corespring.springbasics.games.GameRunner;
 import com.pinaki.corespring.springbasics.games.Mario;
 import com.pinaki.corespring.springbasics.games.Pokemon;
 
-public class ApprRunnerMain {
+public class App1rRunnerMain {
 
 	public static void main(String[] args) {
 		
