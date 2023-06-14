@@ -17,7 +17,6 @@ public class App1rRunnerMain {
 	
 
 	public static void main(String[] args) {
-		
    var context = new AnnotationConfigApplicationContext(App1rRunnerMain.class);
    context.getBean(GamingConsole.class).up();
    context.getBean(GameRunner.class).run();
